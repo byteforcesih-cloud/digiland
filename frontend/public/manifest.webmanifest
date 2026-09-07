@@ -1,0 +1,16 @@
+{
+  "name": "DigiLand – AI-Powered Digital Land Record Management System",
+  "short_name": "DigiLand",
+  "description": "Enterprise AI-powered Digital Land Record Management and Cadastral Verification System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
